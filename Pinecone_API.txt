@@ -1,0 +1,8 @@
+To get Pinecone API key 
+
+Step 1: - Go to Pinecone Website
+Step 2: - Sign up
+Step 3: - API Key
+
+Make your API key and use it with OpenAI and Langchain
+Make Sure that your OpenAI API key has credential for Token Generation
